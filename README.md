@@ -1,0 +1,1 @@
+# mirai-educational-script
